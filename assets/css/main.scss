@@ -1,0 +1,21 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+$sidebar-bg-color: #166e91 !default;
+$sidebar-sticky: true !default;
+$layout-reverse: false !default;
+$link-color: #B2630B !default;
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import "hydeout";
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}

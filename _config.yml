@@ -1,0 +1,32 @@
+# Site settings
+title: Inside {CurlyBraces}
+tagline: 'Yet Another Personal Blog'
+description: 'Yet Another Personal Blog'
+
+author:
+  name: 'Rasika Weliwita'
+  url: https://blog.weliwita.com
+  email: weliwita@gmail.com
+
+url: http://blog.weliwita.com
+github: https://github.com/weliwita/
+baseurl: ""
+
+paginate: 5
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile','node_modules','package.json']
+
+github_username: weliwita
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+
+disqus:
+  shortname: 'weliwita'
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate

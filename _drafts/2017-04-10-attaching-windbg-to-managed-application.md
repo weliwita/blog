@@ -4,8 +4,7 @@ title: Attaching Windbg to Managed Application
 date: 2017-04-10 16:47
 author: weliwita@gmail.com
 comments: true
-categories: ['Visual Studio']
-tags: [windbg]
+categories: [Debuging, Windbg]
 ---
 You may want time to time dig into the implementation detail of the code you are working with(e.g. how they are represented in RAM). Windbg with the help of SOS extension gives you lot of those implementation detail. But when the initial breakpoint is hit the CLR has not yet been loaded and Windbg doesn't allow you to load SOS. What you can do here is that temporary set a <code>Console.ReadLine()</code> in your code and hit Ctrl + Break to break the debugger at your desired location.
 

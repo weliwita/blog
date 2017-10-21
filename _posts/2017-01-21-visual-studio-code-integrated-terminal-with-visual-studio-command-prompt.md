@@ -11,7 +11,7 @@ tags: [vscode]
 It is quite convenient to use visual studio developer command prompt from VS Code integrated terminal.
 
 * You need to find the correct command line argument to start the visual studio command prompt. You can do that by checking properties of the shortcut icon.
-    ![Configuring shortcut]({{ "/assets/img/posts/20170121-Shortcut.png" | absolute_url }})
+    ![Configuring shortcut]({{ "/assets/img/posts/20170121-Shortcut.png" | site.baseurl }})
 
 * Copy the shortcut link text
 
@@ -26,14 +26,14 @@ It is quite convenient to use visual studio developer command prompt from VS Cod
     {% endhighlight %}
 
 * If everything goes ok you should be able to use developer command prompt within VS Code integrated shell as follows
-    ![Using command prompt]({{ "/assets/img/posts/20170121-Compiling.png" | absolute_url }})
+    ![Using command prompt]({{ "/assets/img/posts/20170121-Compiling.png" | site.baseurl }})
 
 ------------
 
 ### Troubleshooting
 
 If you have trouble executing commands you can check if correct command parameters are passed into the integrated terminal by using the process explorer.
-[![Using process explorer]({{ "/assets/img/posts/20170121-CommandLine.png" | absolute_url }})]({{ "/assets/img/posts/20170121-CommandLine.png" | absolute_url }})
+[![Using process explorer]({{ "/assets/img/posts/20170121-CommandLine.png" | site.baseurl }})]({{ "/assets/img/posts/20170121-CommandLine.png" | site.baseurl }})
 
 
 If you are running an older version of VS Code you may need to upgrade to the latest version due to this [bug](https://github.com/Microsoft/vscode/issues/7266) 

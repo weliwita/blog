@@ -12,3 +12,6 @@ sass:
 
 ## folder structure
 https://dalanzg.github.io/tips-tutorials/jekyll/2016/03/25/how-to-use-sass-with-jekyll/
+
+## highlighters
+https://haisum.github.io/2014/11/07/jekyll-pygments-supported-highlighters/

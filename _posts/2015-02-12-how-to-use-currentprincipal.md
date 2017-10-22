@@ -30,6 +30,6 @@ else{
 }
 {% endhighlight %}
 
-### Related Links
+### References
 
 <a title="msdn documentation" href="https://msdn.microsoft.com/en-us/library/system.threading.thread.currentprincipal(v=vs.110).aspx">msdn documentation</a>

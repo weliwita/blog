@@ -28,3 +28,6 @@ disqus:
 
 plugins: [jekyll-feed, jekyll-gist, jekyll-paginate]
 
+sass:
+  style: compressed
+

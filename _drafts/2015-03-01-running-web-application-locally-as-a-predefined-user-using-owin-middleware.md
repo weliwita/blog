@@ -6,7 +6,7 @@ author: weliwita@gmail.com
 comments: true
 categories: [Authentication, Claims, Identity, Middleware, OWIN, OWIN]
 ---
-It is quite common that we sometimes need to run the application without all the identity server redirection dance at development time. It is posible to assign common identity to all the users running the application locally as follows.
+It is quite common that we sometimes need to run the application without all the identity server redirection dance at development time. It is possible to assign common identity to all the users running the application locally as follows.
 
 Create a custom authentication middleware as follows.
 

@@ -19,3 +19,13 @@ https://haisum.github.io/2014/11/07/jekyll-pygments-supported-highlighters/
 ## search
 https://lunrjs.com/
 https://github.com/dalanzg/tips-tutorials
+
+# categories
+IAM - Identity and Access Management - authentication, claims,
+Security - Virus, malware, ransomeware
+Visual Studio - cpp, vscode, debugging, windbg, dotnetcore, uwp, cppwinrt, winrt, owin, Middleware, OWIN, csharp
+UX - css, html, design elements, 
+Interoperability - COM, EDGE, 
+Architecture - Patterns and Practices, design-patterns, soa, microservices
+Productivity
+Craftsmanship -   blogging, Books, podcasts, courses, videos, pluralsight, 

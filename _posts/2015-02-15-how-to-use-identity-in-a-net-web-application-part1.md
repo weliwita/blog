@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to use Identity in a .NET Web Application : Part-1"
+title: "How to use Identity in a .NET Web Application - Part 1"
 date: 2015-02-15 08:57
 author: weliwita@gmail.com
 comments: true

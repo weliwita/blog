@@ -31,3 +31,5 @@ plugins: [jekyll-feed, jekyll-gist, jekyll-paginate]
 sass:
   style: compressed
 
+google_analytics: UA-108472837-1
+

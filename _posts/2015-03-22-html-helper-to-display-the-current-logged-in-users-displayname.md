@@ -4,7 +4,7 @@ title: HTML Helper to Display the Logged In User's DisplayName
 date: 2015-03-22 07:01
 author: weliwita@gmail.com
 comments: true
-categories: [Visual Studio, Identity and Access Management]
+categories: [Visual Studio, IAM]
 tags: [claims]
 ---
 It is pretty common to display the logged-in user in various places in a website. We can create an HTML helper to display the logged-in user's name.

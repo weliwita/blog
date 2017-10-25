@@ -4,7 +4,7 @@ title: "How to use Identity in a .NET Web Application - Part 1"
 date: 2015-02-15 08:57
 author: weliwita@gmail.com
 comments: true
-categories: [Visual Studio, Identity and Access Management]
+categories: [Visual Studio, IAM]
 tags: [authentication, claims]
 ---
 In a previous [post](/visual%20studio/identity%20and%20access%20management/2015/02/12/how-to-use-currentprincipal.html), I described how does a user is represented inside a DotNet application using `Thread.CurentPrinciple` property. In this post and next, I will go through the default visual studio 2013 MVC template to see how the identity is set for an MVC application.

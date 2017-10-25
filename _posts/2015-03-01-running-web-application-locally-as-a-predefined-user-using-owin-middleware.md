@@ -4,7 +4,7 @@ title: Running web application locally as a predefined user using OWIN Middlewar
 date: 2015-03-01 09:29
 author: weliwita@gmail.com
 comments: true
-categories: [Visual Studio, Identity and Access Management]
+categories: [Visual Studio, IAM]
 tags: [authentication, claims]
 ---
 

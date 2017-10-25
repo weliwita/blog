@@ -4,7 +4,7 @@ title: "How to use Identity in a .NET Web Application - Part 2"
 date: 2015-02-15 08:57
 author: weliwita@gmail.com
 comments: true
-categories: [Visual Studio, Identity and Access Management]
+categories: [Visual Studio, IAM]
 tags: [authentication, claims]
 ---
 

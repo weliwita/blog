@@ -7,7 +7,7 @@ $sidebar-bg-color: #268bd2 !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 $link-color: #d28445 !default;
-
+$large-breakpoint: 64rem !default;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "hydeout";

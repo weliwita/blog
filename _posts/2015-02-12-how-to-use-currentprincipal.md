@@ -4,7 +4,7 @@ title: How to Use CurrentPrincipal
 date: 2015-02-12 05:48
 author: weliwita@gmail.com
 comments: true
-categories: [Visual Studio, Identity and Access Management]
+categories: [Visual Studio, IAM]
 tags: [authentication, claims]
 ---
 

@@ -5,12 +5,12 @@ description: 'I read, learn, code and blog'
 
 author:
   name: 'Rasika Weliwita'
-  url: https://blog.weliwita.com
+  url: https://weliwita.com
   email: weliwita@gmail.com
 
-url: http://blog.weliwita.com
+url: http://weliwita.com
 github: https://github.com/weliwita/
-baseurl: ""
+baseurl: "blog"
 
 paginate: 5
 

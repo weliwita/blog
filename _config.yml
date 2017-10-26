@@ -10,7 +10,7 @@ author:
 
 url: http://weliwita.com
 github: https://github.com/weliwita/
-baseurl: "blog"
+baseurl: "/blog"
 
 paginate: 5
 

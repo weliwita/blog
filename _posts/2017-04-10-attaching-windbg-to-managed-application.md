@@ -20,4 +20,4 @@ In case you are not working with a console app and you still need to break into 
 When you hit <code>g</code> in the debugger it will stop at the infinite loop. You can then break into the loop and set the boolean flag to true in memory window. To track the location of the local variable in the stack you can use <code> !clrstack -a </code> command. After setting the variable to true you can continue the execution by hitting <code>g</code> command to get out of the infinite loop.
 
 
-[![Clr stack]({{ "/assets/img/posts/20170410-clrstack.png" | site.baseurl }})]({{ "/assets/img/posts/20170410-clrstack.png" | site.baseurl }})
+[![Clr stack]({{site.baseurl }}/assets/img/posts/20170410-clrstack.png)]({{site.baseurl }}/assets/img/posts/20170410-clrstack.png)

@@ -4,10 +4,11 @@ title: Transport Layer Security (TLS)
 date: 2015-05-13 05:42
 author: weliwita@gmail.com
 comments: true
-categories: [security basics, Security Fundamentals]
+categories: [IAM]
+tags: [security-fundamentals]
 ---
 <h4>What is Transport Layer</h4>
-In the Open Systems Interconnection(OSI) model the transport layer is most often referred to as Layer 4. It resides between network layer and session layer.
+In the Open Systems Interconnection(OSI) model the transport layer is most often referred to as Layer 4. It resides between network layer and session layer. Almost all modern authentication protocols rely heavily on transport layer security. 
 <h3>What is Transport Layer Security (TLS)</h3>
 TLS is a protocol designed to provide communications security over a computer network. It is the successor of the SSL. The protocol is defined <a href="http://tools.ietf.org/html/rfc5246">here</a>.
 It can provide privacy and data integrity between two communicating applications.

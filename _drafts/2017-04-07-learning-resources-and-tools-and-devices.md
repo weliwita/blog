@@ -6,11 +6,19 @@ author: weliwita@gmail.com
 comments: true
 categories: [Uncategorized]
 ---
-Ok you have a degree and you get a job
+Learning resources and tools and devices.
 
-#on the job learning
+manage Two hours of travel time.
 
-#post graduate
+Kindle paperwhite
+
+Instapaper
+
+send to kindel
+
+sony listner
+
+&nbsp;
 
 #certificates
 

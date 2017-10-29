@@ -4,7 +4,8 @@ title: Security Fundamentals 1 - What is CIA
 date: 2015-04-07 16:36
 author: weliwita@gmail.com
 comments: true
-categories: [security basics, Security Fundamentals]
+categories: [IAM]
+tags: [security-fundamentals]
 ---
 In computer security CIA is the abbreviation for following terms.
 <ul>

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About Rasika Weliwita
+link-title: About
 sidebar_link: true
 ---
 
@@ -20,7 +21,10 @@ Specialties: Microsoft Azure(Cloud Services); Identity and access control; Share
 </a>
 
 
-## About Site
+
+
+
+### About this Site
 This site is built with following great frameworks, templates and platforms
 * [GitHub Pages](https://pages.github.com/) - Websites for you and your projects.
 * [Jekyll](http://jekyllrb.com) - Transform your plain text into static websites and blogs.

@@ -16,12 +16,21 @@ I am a frequent blogger and love to share knowledge via my [blog](http://blog.we
 
 Specialties: Microsoft Azure(Cloud Services); Identity and access control; SharePoint; Build, Deployment and Test Automation;
 
+
+
+<table>
+<tr>
+<td>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dc8f7036-f2bf-4b3f-9c4a-bfd51d42711d" data-share-badge-host="https://www.youracclaim.com"></div>
+<script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+</td>
+<td>
 <a href="https://stackoverflow.com/users/2032151/rawel">
 <img src="https://stackoverflow.com/users/flair/2032151.png?theme=clean" width="208" height="58" alt="profile for Rasika Weliwita at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Rasika Weliwita at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
-
-
-
+</td>
+</tr>
+</table>
 
 
 ### About this Site

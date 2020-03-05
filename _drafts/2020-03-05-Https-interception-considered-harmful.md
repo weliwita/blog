@@ -12,3 +12,14 @@ http://mdbailey.ece.illinois.edu/publications/ndss17_interception.pdf
 that traverses a network middlebox has reduced security and 58% of middlebox connections have severe vulnerabilities
 
 https://www.youtube.com/watch?v=AXnDY07ydTo
+
+We are in a time targetting 100% https,
+
+you are weaken the trust users has on https,
+
+When it is common to install a root certificate to get access to internet at office, users will not see a problem installing yet another certificate at the airport, or cafeteria.
+
+
+
+https://www.troyhunt.com/https-adoption-has-reached-the-tipping-point/
+https://www.helpnetsecurity.com/2017/02/10/https-interception/

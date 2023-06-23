@@ -7,7 +7,7 @@ comments: true
 categories: [Visual Studio, IAM]
 tags: [authentication, claims]
 ---
-In a previous [post](/visual%20studio/identity%20and%20access%20management/2015/02/12/how-to-use-currentprincipal.html), I described how does a user is represented inside a DotNet application using `Thread.CurentPrinciple` property. In this post and next, I will go through the default visual studio 2013 MVC template to see how the identity is set for an MVC application.
+In a previous [post]({{ site.baseurl }}{% link _posts/2015-02-12-how-to-use-currentprincipal.md %}), I described how does a user is represented inside a DotNet application using `Thread.CurentPrinciple` property. In this post and next, I will go through the default visual studio 2013 MVC template to see how the identity is set for an MVC application.
 
 Let's say in the default template you put authorize attribute in the `About` action in `Home` controller like follows.
 

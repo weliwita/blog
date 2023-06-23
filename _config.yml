@@ -33,3 +33,5 @@ sass:
 
 google_analytics: UA-108472837-1
 
+permalink: /:year/:month/:day/:title:output_ext
+

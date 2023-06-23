@@ -8,7 +8,7 @@ categories: [Visual Studio, IAM]
 tags: [authentication, claims]
 ---
 
-In the previous blog [post], I described how a `302 Redirect` is issued to the browser when the user requests a page that requires a logged in user. In this post, let's see how the actual login process works in default MVC template.
+In the previous blog [post](/blog/visual%20studio/iam/2015/02/15/how-to-use-identity-in-a-net-web-application-part1.html), I described how a `302 Redirect` is issued to the browser when the user requests a page that requires a logged in user. In this post, let's see how the actual login process works in default MVC template.
 
 So, when the browser gets redirect to the  `/Account/Login?ReturnUrl=%2FHome%2FAbout` page, that request is handled by the `Account` controller's `Login` action. It basically returns a form for the user to enter the log-in credentials. Please note that return URL is also sent along.
 

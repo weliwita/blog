@@ -6,6 +6,7 @@ run `bundle update github-pages`
 
 ##Run local
 run `bundle exec jekyll serve`
+sudo: rasika  aedu
 
 ## minification
 sass:

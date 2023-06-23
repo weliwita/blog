@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Controversial Practice of SSL Inspection: A Betrayal of Trust?"
-date: 2023-06-23 16:47
+title: The Controversial Practice of SSL Inspection - A Betrayal of Trust?
+date: 2022-06-22 16:47
 author: weliwita@gmail.com
 comments: true
 categories: [IAM]
